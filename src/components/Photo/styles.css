@@ -1,0 +1,15 @@
+#img{
+    height: 100vh;
+    background: url('../../assets/Images/le.jpg') ;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    /* transition: transform 1s ease; */
+}
+
+/* #img:hover{
+    position: fixed;
+    z-index: 1;
+    transform: scale(.01);
+} */
